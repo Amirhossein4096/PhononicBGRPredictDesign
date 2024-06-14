@@ -5,14 +5,20 @@ This repository contains a MATLAB application for predicting the bandgap ratio a
 - **Bandgap Ratio Prediction**: Accurately predicts the bandgap ratio of phononic crystals using a trained neural network model.
 - **Inverse Design**: Facilitates the design of phononic crystals with desired bandgap properties through an inverse design approach.
 - **User-Friendly Interface**: MATLAB-based graphical interface for ease of use and accessibility.
-- **Comprehensive Documentation**: Detailed instructions and examples to guide users through installation, usage, and customization.
+
+---
 
 ### Features
 
-- Predict bandgap ratios of phononic crystals
-- Perform inverse design to achieve specific bandgap properties
-- Utilizes a trained neural network for accurate predictions
-- MATLAB-based application with an intuitive user interface
+1. **Prediction Tab**:
+   - Adjust values of **e/a**, **r/a**, and **h/a** using sliders.
+   - Instantly view the predicted bandgap ratio in a text box.
+   - Automatically update the 3D view of the phononic crystal unit cell within the app.
+
+2. **Inverse Design Tab**:
+   - Set boundary ranges for **e/a**, **d/a**, and **h/a** using range sliders.
+   - Input the desired bandgap ratio.
+   - Click "Compute" to perform inverse design with minimal optimization using a trained neural network and particle swarm optimization.
 
 ### Getting Started
 
@@ -27,18 +33,18 @@ This repository contains a MATLAB application for predicting the bandgap ratio a
 3. **Run the Application**:
     - Open MATLAB.
     - Navigate to the cloned repository directory.
-    - Run the main script: `main.m`.
+    - Run the main script: `app_main.m`.
 
 ### Usage
 
-1. **Load your phononic crystal data** into the app.
-2. **Select prediction or inverse design** mode.
-3. **Input parameters** and let the neural network model perform the calculations.
-4. **View and analyze** the results through the graphical interface.
+- **Prediction Tab**:
+  - Use the sliders to set the values of **e/a**, **r/a**, and **h/a**.
+  - View the predicted bandgap ratio and 3D unit cell visualization.
 
-### Contributing
-
-We welcome contributions! Please read our [contributing guidelines](link-to-contributing-guidelines) for more details.
+- **Inverse Design Tab**:
+  - Set boundary ranges for **e/a**, **d/a**, and **h/a**.
+  - Input the desired bandgap ratio.
+  - Click "Compute" to start the inverse design process.
 
 ### License
 
@@ -50,4 +56,14 @@ For any questions or suggestions, please contact [amir.farajollahi@ut.ac.ir].
 
 ---
 
-Feel free to modify the details as necessary to fit your specific setup and preferences.
+### Short Description
+
+A MATLAB app for predicting bandgap ratios and inverse design of phononic crystals using a trained neural network.
+
+### Title
+
+**Phononic Bandgap Predictor and Inverse Design App using Neural Networks**
+
+---
+
+This description integrates your detailed explanation of the app's functionalities and user interface.
