@@ -48,7 +48,7 @@ This repository contains a MATLAB application for predicting the bandgap ratio a
 
 ### License
 
-This project is licensed under the GNU General Public License - see the [LICENSE](https://github.com/Amirhossein4096/PhononicBGPPredictDesign/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Amirhossein4096/PhononicBGPPredictDesign/blob/main/LICENSE) file for details.
 
 ### Contact
 
