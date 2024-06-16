@@ -52,7 +52,7 @@ This project is licensed under the GNU General Public License - see the [LICENSE
 
 ### Contact
 
-For any questions or suggestions, please contact [amir.farajollahi@ut.ac.ir].
+For any questions or suggestions, please contact amir.farajollahi@ut.ac.ir.
 
 ---
 
