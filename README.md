@@ -63,7 +63,3 @@ A MATLAB app for predicting bandgap ratios and inverse design of phononic crysta
 ### Title
 
 **Phononic Bandgap Predictor and Inverse Design App using Neural Networks**
-
----
-
-This description integrates your detailed explanation of the app's functionalities and user interface.
